@@ -8,8 +8,8 @@ To launch training, run
 `python3 main_train.py` 
 
 Some snapshots from tensorboard.
-!(https://github.com/umarKarim/glow_pt/blob/main/tensorboard_snapshots/losses.png)
-!(https://github.com/umarKarim/glow_pt/blob/main/tensorboard_snapshots/ims.png)
+![losses.png](https://github.com/umarKarim/glow_pt/blob/main/tensorboard_snapshots/losses.png)
+![ims.png](https://github.com/umarKarim/glow_pt/blob/main/tensorboard_snapshots/ims.png)
 
 
 ## Inference 
